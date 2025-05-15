@@ -1,20 +1,20 @@
-# 👽 Gabriel Ferreira 
+# 👽 Gabriel Ferreira Lopes
 **Seja bem-vindo ao meu perfil!**
 
-Oi, eu sou o Gabriel, um estudante apaixonado por **tecnologia**
+Oi, eu sou o Gabriel, um estudante apaixonado por **tecnologia**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevfront-end/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gfl.principal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516994314040)
 
 🎯 Minhas Metas
-✅ Finalizar o curso de Análise e Desenvolvimento de Sistemas com excelência
+✅ Finalizar o curso de Análise e Desenvolvimento de Sistemas com excelência.
 
-🔄 Participar ativamente e contribuir para projetos open source relevantes
+🔄 Participar ativamente e contribuir para projetos open source relevantes.
 
-🚀 Garantir meu primeiro estágio ou emprego como Desenvolvedor Front-End
+🚀 Garantir meu primeiro estágio ou emprego como Desenvolvedor.
 
-🌐 Evoluir minhas habilidades para me tornar um Desenvolvedor Fullstack completo
+🌐 Evoluir minhas habilidades para me tornar um Desenvolvedor Fullstack completo.
 ---
 
 ## 🤖 Linguagens e Tecnologias
