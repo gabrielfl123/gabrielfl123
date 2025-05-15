@@ -7,7 +7,14 @@ Oi, eu sou o Gabriel, um estudante apaixonado por **tecnologia**
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gfl.principal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516994314040)
 
+🎯 Minhas Metas
+✅ Finalizar o curso de Análise e Desenvolvimento de Sistemas com excelência
 
+🔄 Participar ativamente e contribuir para projetos open source relevantes
+
+🚀 Garantir meu primeiro estágio ou emprego como Desenvolvedor Front-End
+
+🌐 Evoluir minhas habilidades para me tornar um Desenvolvedor Fullstack completo
 ---
 
 ## 🤖 Linguagens e Tecnologias
@@ -18,8 +25,6 @@ Oi, eu sou o Gabriel, um estudante apaixonado por **tecnologia**
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br/>
